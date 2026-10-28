@@ -1,11 +1,11 @@
 {
-  "version": "2.2.6",
+  "version": "2.2.7",
   "notes": "修复已知问题",
-  "pub_date": "2026-10-27T07:19:06.520Z",
+  "pub_date": "2026-10-28T10:29:38.860Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://pk10-updates.dev-forge.one/releases/2.2.6/windows-x86_64/yinhe-2.2.6-windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTVgvUEhZeWhyWWZhTDhvREx3VzQvY2RXNWNaSEJQK3NyeXpkbmREWWRnY2JJcmNlZEpOaVI0Q3BJL1VPU3FBRWh0LzNXVHh3eHMvcE9JVHJCTFZtbkx4ZWgwOEZnRUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDg1NTE4CWZpbGU65Lit5a2Q5pifXzIuMi42X3g2NC1zZXR1cC5leGUKZWhGQVFsSStRSHUrRm5VTzBKVE81MW92U3pjc3RiUnhqei9mbFVaMFdkcEd6VW9kMFJ3UWgwTGUwS1VlcmNyY3lJQjZuZDNqdERtRDhSWUs4Z2l1Q0E9PQo="
+      "url": "https://pk10-updates.dev-forge.one/releases/2.2.7/windows-x86_64/yinhe-2.2.7-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTVgvUEhZeWhyWVYvV2JDTEJSeGplSEdaNGxyN3kxU3d4cVl2RWFVWTR2aGlMZ1o4OWpnaVozMC9OZkRBbVdHTkZyaThJSmphNVY4VUd6azlQRGFrd2lrazk5NDg2aXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTgzNjA3CWZpbGU65Lit5a2Q5pifXzIuMi43X3g2NC1zZXR1cC5leGUKMVRpZVI2MGZEeEYybFRLdEFKTW85QXJjbjZ6TjJFc0h4dXZacFM5c2ZQaExxMmxEeStXeVBXdW9ZaFZSVU1xdW1nRjZwRW5BclBKU0M3UWtKSTBCRHc9PQo="
     }
   }
 }
